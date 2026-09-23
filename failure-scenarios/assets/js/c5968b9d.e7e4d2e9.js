@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcadence=globalThis.webpackChunkcadence||[]).push([[8975],{44865(e){e.exports=JSON.parse('{"tags":[{"label":"announcement","permalink":"/Cadence-Docs/failure-scenarios/community/tags/announcement","count":2}]}')}}]);
